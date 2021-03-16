@@ -8,7 +8,9 @@
 	<p align="center">
 			
 	<?php
-		# semilla de aleatorio
+		# semilla de aleatorio 
+		// ***************************
+		// ***************************
 		srand((double)microtime()*1000000);
 
 		# genero un aleatorio entre 1 y 6
